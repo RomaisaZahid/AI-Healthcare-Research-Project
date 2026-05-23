@@ -24,7 +24,7 @@ The core analytical architecture evaluates technological risk models against pre
 
 ## 📊 Survey Methodology & Public Consensus
 
-- **Empirical Instrument:** Deployed a structured, targeted multi-demographic survey evaluating user acceptance matrices for AI-driven disease diagnosis, surgical support, and autonomous prescriptions.
+- **Empirical Instrument:** Deployed a structured, targeted multi-demographic survey evaluating user acceptance metrices for AI-driven disease diagnosis, surgical support, and autonomous prescriptions.
 - **Key Discovery:** High willingness to adopt AI tools *only under strict human-in-the-loop (doctor supervision) architectures*, paired with extreme sensitivity toward data privacy and diagnostic algorithmic explainability.
 
 ---
