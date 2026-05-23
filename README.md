@@ -2,7 +2,7 @@
 
 A comprehensive Capstone and Professional Practices research project investigating the multi-dimensional ethical, legal, and societal implications of deploying Artificial Intelligence (AI) within clinical and diagnostic environments. This study synthesizes public trust metrics with international professional engineering standards to propose safer, more accountable AI deployment models in medical fields.
 
-## 🔬 Core Core Areas of Ethical Investigation
+## 🔬 Core Areas of Ethical Investigation
 
 The research focuses on six key vulnerability domains in automated medical computing:
 1. **The Black-Box Problem (Transparency):** Analyzing the critical lack of explainability in deep learning medical models making high-stakes diagnostic decisions.
